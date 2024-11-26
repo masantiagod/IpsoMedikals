@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alex\\IpsoMedikal\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Alex\\IpsoMedikal\\obj\\Debug\\net8.0\\compressed\\rq8sa0bhl7.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Alex\\IpsoMedikal\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IpsoMedikal.styles.css",
+      "PackagePath": "staticwebassets\\IpsoMedikal.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Alex\\IpsoMedikal\\wwwroot\\Imagenes\\Contacto.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\Contacto.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Alex\\IpsoMedikal\\wwwroot\\Imagenes\\Cumpleanos.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\Cumpleanos.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Alex\\IpsoMedikal\\wwwroot\\Imagenes\\Ipso1.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\Ipso1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Alex\\IpsoMedikal\\wwwroot\\Imagenes\\Ipso2.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Ipso2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alex\\IpsoMedikal\\wwwroot\\Imagenes\\Ipso3.JPG",
+      "PackagePath": "staticwebassets\\Imagenes\\Ipso3.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Alex\\IpsoMedikal\\wwwroot\\Imagenes\\Promociones.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\Promociones.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Alex\\IpsoMedikal\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Alex\\IpsoMedikal\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Alex\\IpsoMedikal\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Alex\\IpsoMedikal\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Alex\\IpsoMedikal\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IpsoMedikal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.IpsoMedikal.props",
+      "PackagePath": "build\\IpsoMedikal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IpsoMedikal.props",
+      "PackagePath": "buildMultiTargeting\\IpsoMedikal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.IpsoMedikal.props",
+      "PackagePath": "buildTransitive\\IpsoMedikal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
